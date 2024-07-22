@@ -12,6 +12,7 @@ const config: Config = {
 
 			colors: {
 				"sharewell-blue": "#687CEB",
+				"sharewell-cta": "#32a7ad2b",
 			},
 			backgroundImage: {
 				"gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

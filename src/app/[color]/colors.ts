@@ -7,7 +7,11 @@ export const modalContents: Record<string, ModalContent> = {
 		date: "Thursday, Jun 22, 2024",
 		time: "06:00pm - 07:30pm EST",
 		paragraph:
-			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+			"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's",
+		ctaLabel: "Lorem Ipsum",
+		tagline: "Lorem Ipsum is simply dummy text.",
+		secondaryOverline: "Lorem Ipsum",
+		secondaryTitle: "Lorem Ipsum",
 	},
 	"Modal 2": {
 		title: "Modal 2",
@@ -15,7 +19,11 @@ export const modalContents: Record<string, ModalContent> = {
 		date: "Friday, Jun 23, 2024",
 		time: "07:00pm - 08:30pm EST",
 		paragraph:
-			"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+			"Lorem Ipsum is simply dummy cillum dolore eu fugiat nulla pariatur. cillum dolore eu fugiat nulla pariatur.",
+		ctaLabel: "Lorem Ipsum",
+		tagline: "Lorem Ipsum is simply dummy text.",
+		secondaryOverline: "Lorem Ipsum",
+		secondaryTitle: "Lorem Ipsum",
 	},
 	"Modal 3": {
 		title: "Modal 3",
@@ -23,7 +31,11 @@ export const modalContents: Record<string, ModalContent> = {
 		date: "Wednesday, Jun 21, 2023",
 		time: "07:00pm - 07:30pm EST",
 		paragraph:
-			"Lorem Ipsum qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+			"Lorem Ipsum qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+		ctaLabel: "Lorem Ipsum",
+		tagline: "Lorem Ipsum is simply dummy text.",
+		secondaryOverline: "Lorem Ipsum",
+		secondaryTitle: "Lorem Ipsum",
 	},
 };
 export const modalConfig: Record<string, string[]> = {
