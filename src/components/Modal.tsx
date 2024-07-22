@@ -41,7 +41,7 @@ const Modal: React.FC<ModalProps> = ({ onClose, content }) => {
 					</div>
 				</div>
 
-				<div className='relative bg-white rounded-b-xl p-6'>
+				<div className='relative bg-white rounded-b-xl p-6 text-black'>
 					<button
 						className='text-3xl font-extralight absolute top-4 right-6 text-gray-500 hover:text-gray-700'
 						onClick={onClose}
@@ -61,7 +61,7 @@ const Modal: React.FC<ModalProps> = ({ onClose, content }) => {
 					<p className='text-sm pb-2.5 font-normal text-center'>
 						Lorem Ipsum is simply dummy text.
 					</p>
-					<button className='w-full bg-green-50 hover:bg-green-100 text-gray-300 text-base font-normal py-2 px-4 rounded-lg'>
+					<button className='w-full bg-green-100 hover:bg-green-200 text-gray-300 text-base font-normal py-2 px-4 rounded-lg'>
 						Lorem Ipsum
 					</button>
 				</div>
